@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  position: absolute;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  max-width: 200px;
+}
+
+.profile {
+  display: flex;
+  justify-content: flex-end;
+}
